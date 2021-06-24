@@ -9,7 +9,7 @@
 * [3. Historias de Usuarios](#3-historias-de-usuarios)
 * [4. Prototipo y diseño](#4-prototipo-y-diseño)
 * [5. Interfaz](#5-interfaz)
-* [6. Modo de usuarios](#6-modo-usuarios)
+* [6. Modo de usuarios](#6-modo-de-usuarios)
 * [7. Tecnología](#7-tecnología)
 * [8. Enlace web](#8-enlace-web)
 
