@@ -244,7 +244,8 @@ El proyecto es creado con:
  * NodeJS
  * Chart.js
 
-  ## 8. Enlace web
+  ## 8. Enlace web 👇
+  [RickandMortyLand](https://gabbyholics.github.io/SCL017-data-lovers/)
   
 
 
