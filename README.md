@@ -5,12 +5,13 @@
 ## Índice
 
 * [1. Descripción general](#1-descripción-general)
-* [2. Perfil de usuarios](#4-perfil-de-usuarios)
-* [3. Historias de Usuarios](#2-historias-de-usuarios)
-* [4. Prototipo y diseño](#3-prototipo-y-diseño)
-* [5. Modo de usuarios](#5-modo-usuarios)
-* [6. Tecnología](#6-tecnología)
-* [7. Enlace web](#8-enlace-web)
+* [2. Perfil de usuarios](#2-perfil-de-usuarios)
+* [3. Historias de Usuarios](#3-historias-de-usuarios)
+* [4. Prototipo y diseño](#4-prototipo-y-diseño)
+* [5. Interfaz](#5-interfaz)
+* [6. Modo de usuarios](#6-modo-usuarios)
+* [7. Tecnología](#7-tecnología)
+* [8. Enlace web](#8-enlace-web)
 
 ***
 
